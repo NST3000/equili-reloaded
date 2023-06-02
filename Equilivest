@@ -1,5 +1,5 @@
 #include <Arduino.h>
-//#line 1 "C:\\Users\\Kito\\AppData\\Local\\Temp\\arduino_modified_sketch_388959\\GetAngle.ino"
+
 /* Get tilt angles on X and Y, and rotation angle on Z
    Angles are given in degrees
 
